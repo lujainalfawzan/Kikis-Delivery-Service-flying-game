@@ -1,0 +1,30 @@
+
+.menu{
+    width: 60vmin;
+    height:35vmin ;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background: rgb(255,255,255,0.7) ;
+    text-align: center;
+    padding: 5vmin;
+    border-radius: 10px;
+
+}
+
+@font-face {
+    font-family: 'gaming';
+    src: url('FirstJob-X8rP.ttf');
+}
+
+.btn{
+
+    font-size: large;
+    background-color: rgb(113, 179, 229);
+    border-radius: 5px;
+    text-align: center;
+    font-family: gaming;
+    width: auto;
+
+}
